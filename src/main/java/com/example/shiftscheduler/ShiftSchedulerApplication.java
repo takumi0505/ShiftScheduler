@@ -1,4 +1,4 @@
-package com.example.ShiftScheduler;
+package com.example.shiftscheduler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
